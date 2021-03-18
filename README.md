@@ -35,7 +35,7 @@ Add this to before you scripts and inside body
 ```
 ## Currently added features
 
-######  1. Select elements without having to write too long
+###  1. Select elements without having to write too long
 #### Usage 
 ```javascript
 sel(some refrence to element)
@@ -47,7 +47,7 @@ sel(".classname") // Select an element with class "classname"
 sel("#elementid") // Select an element with id elementid
 ```
 
-###### 2. Add Global Styles
+### 2. Add Global Styles
 #### Usage
 ```javascript
 ags(css)
@@ -58,7 +58,7 @@ Where css is css defined by the coder
 ags(".classname{color: cyan}")
 ags("#elementid{color: red}")
 ```
-###### 3. Create element and append to body
+### 3. Create element and append to body
 ```
 Note: There are multiple features inside this function
 ```
@@ -66,7 +66,7 @@ Note: There are multiple features inside this function
 ```javascript
 ceab(element, someclass, id, innerHTML, css)
 ```
-Where 
+Where, 
 * element - Name of element
 * someclass - ClassName of element created
 * id - Id of the element created
@@ -91,7 +91,7 @@ ceab("p", "someclass", "", "You will see this in your browser", "color: cyan"); 
 Note: Don't use css without setting class
 Note: Don't use only white spaces in class and id otherwise the element will be created but with no classname and no id
 ```
-###### 4. Console.log with some color and background
+### 4. Console.log with some color and background
 #### Usage
 ```javascript
 cc("Hey this is made by Krishnab Sarkar")
