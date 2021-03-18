@@ -2,7 +2,7 @@
 This simple cheatsheet allows you to experience the powers of JavaScript without any professional knowledge in JavaScript
 
 ## Installation
-Add this to before you scripts and inside body
+Add this to before your scripts and inside body
 ```html
 <script src="https://cdn.jsdelivr.net/gh/codewithkrishnab/powerofjs/Cheatfc.js"></script>
 ```
