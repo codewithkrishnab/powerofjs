@@ -4,7 +4,7 @@ This simple cheatsheet allows you to experience the powers of JavaScript without
 ## Installation
 Add this to before you scripts and inside body
 ```html
-<script src="https://cdn.jsdelivr.net/gh/codewithkrishnab/powerofjs/Cheatfc.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/codewithkrishnab/powerofjs3/Cheatfc.js"></script>
 ```
 #### Example
 ```html
