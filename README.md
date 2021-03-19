@@ -74,7 +74,7 @@ Where,
 * css - Add some styling to the element created
 
 ```
-Note: css is set by the element's classname you created
+Note: Css is now not set by the classname but directly appended to the element created
 ```
 #### Examples
 
@@ -88,7 +88,7 @@ ceab("p", "someclass", "someid", "Some innerHTML", "color: cyan") // Set class o
 ceab("p", "someclass", "", "You will see this in your browser", "color: cyan"); // Set class as someclass and give class and give styling as color cyan
 ```
 ```
-Note: Don't use css without setting class
+Note: You can now use styles without setting classname or id
 Note: Don't use only white spaces in class and id otherwise the element will be created but with no classname and no id
 ```
 ### 4. Console.log with some color and background
